@@ -29,8 +29,3 @@ Welcome to Shankar's personal website! This project showcases his skills and pro
 ## Deployment
 
 You can view Shankar's personal website [here](https://shankar55.github.io/Personal-Website-Example/).
-
-## Links
-
-- [My Hobbies](MyHobbies.html)
-- [Contact Me](ContactsMe.html)
