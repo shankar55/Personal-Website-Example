@@ -1,30 +1,34 @@
-# 💙 Shankar's Personal Website 💙
+# Shankar's Personal Website
 
-This is an example of a personal website created using HTML and inline CSS.
+Welcome to Shankar's personal website! This project showcases his skills and provides information about him.
 
-## Introduction
+### Introduction
 
-- **Name:** Shankar
-- **Profession:** Front End Developer at Cognizant
-- **Hobbies:** Loves to watch Animes
+- Name: Shankar
+- Profession: Software Developer at Cognizant
+- Hobbies: Enjoys watching Animes
 
-## Books and Teachings
+### Books and Teachings
 
 - The complete course on "C"
 - The Complete course on Python
 
-## Work Experience
+### Work Experience
 
 | Work             | Years |
 | ---------------- | ----- |
 | iOS Developer    | 2     |
 | Python Developer | 3     |
 
-## Skills
+### Skills
 
 - C: ⭐⭐⭐⭐
 - Java: ⭐⭐⭐
 - Python: ⭐⭐
+
+## Deployment
+
+You can view Shankar's personal website [here](https://shankar55.github.io/Personal-Website-Example/).
 
 ## Links
 
